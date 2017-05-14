@@ -1,3 +1,12 @@
+# THIS FILE IS PART OF LibreBoot PROJECT NMTech0x90
+# backup - 采用定期备份、md5文件值校验、邮件接收日志及报警等。持续更新中.....# 
+
+# THIS PROGRAM IS FREE SOFTWARE, web_backup.sh, IS LICENSED UNDER NMTech0x90.
+# YOU SHOULD HAVE RECEIVED A COPY OF GNU General Public License v3.0, IF NOT, Please delete immediately 
+
+# Copyright (c) 2017 Pasta NMTech0x90
+# Author Mail:NMTech@Aliyun.Com
+
 #!/bin/sh
 # Backup Dir
 BACKUP_NAME="/Backup_Web"
