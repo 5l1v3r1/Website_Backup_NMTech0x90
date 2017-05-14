@@ -13,9 +13,7 @@ echo "# web_backup.sh - 采用定期备份、md5文件值校验、邮件接收�
 echo "# THIS PROGRAM IS FREE SOFTWARE, web_backup.sh, IS LICENSED UNDER NMTech0x90."
 echo "# YOU SHOULD HAVE RECEIVED A COPY OF GNU General Public License v3.0, IF NOT Please delete immediately "
 echo "# Copyright (c) 2017 NMTech0x90"
-echo -e "# Author Mail:NMTech@Aliyun.Com \n"
-echo 
-echo 
+echo -e "# Author Mail:NMTech@Aliyun.Com \n\n"
 BACKUP_NAME="/Backup_Web"
 # Data Dir
 DATADIR="/var/www/html"
