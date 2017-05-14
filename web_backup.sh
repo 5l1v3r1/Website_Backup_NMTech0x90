@@ -1,19 +1,19 @@
 #!/bin/sh
 clear
-echo " 11    11  11    11  11111111                      11          1111                1111      1111     "
+echo -e "\n 11    11  11    11  11111111                      11          1111                1111      1111     "
 echo " 1111  11  11111111    11                          11        11    11            11    11  11    11   "
 echo " 1111  11  11111111    11                          11        11    11            11    11  11    11   "
 echo " 11  1111  11    11    11        1111      111111  111111    11    11  11    11    111111  11    11   "
 echo " 11  1111  11    11    11      11111111  11        11  11    11    11    1111          11  11    11   "
 echo " 11    11  11    11    11      11        11        11  11    11    11    1111    11    11  11    11   "
-echo " 11    11  11    11    11        1111      111111  11  11      1111    11    11    1111      1111     "
+echo -e " 11    11  11    11    11        1111      111111  11  11      1111    11    11    1111      1111     \n"
 
 echo "# THIS FILE IS PART OF LibreBoot PROJECT NMTech0x90"
 echo "# web_backup.sh - 采用定期备份、md5文件值校验、邮件接收日志及报警等。持续更新中....."
 echo "# THIS PROGRAM IS FREE SOFTWARE, web_backup.sh, IS LICENSED UNDER NMTech0x90."
 echo "# YOU SHOULD HAVE RECEIVED A COPY OF GNU General Public License v3.0, IF NOT Please delete immediately "
 echo "# Copyright (c) 2017 NMTech0x90"
-echo "# Author Mail:NMTech@Aliyun.Com"
+echo -e "# Author Mail:NMTech@Aliyun.Com \n"
 echo 
 echo 
 BACKUP_NAME="/Backup_Web"
